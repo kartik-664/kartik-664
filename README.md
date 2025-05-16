@@ -58,7 +58,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kartik-664&theme=react-dark&bg_color=1A1B27&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=false" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-664&theme=react-dark&bg_color=1A1B27&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=false" width="95%" alt="GitHub Activity Graph" />
 </p>
 
 ---
